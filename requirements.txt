@@ -2,4 +2,4 @@ streamlit==1.12.0
 spacy==3.5.1
 transformers==4.28.0
 torch==2.0.1
-numpy==1.21.6  # Specify a compatible version of numpy
+numpy==1.24.3  # Updated to a version compatible with Python 3.11
